@@ -1,0 +1,17 @@
+[far]
+img="far.png"
+depth=350
+repeatX=true
+alignY=BOTTOM
+
+[sand]
+img="sand.png"
+depth=250
+repeatX=true
+alignY=BOTTOM
+
+[foreground]
+img="foregound-merged.png"
+depth=150
+repeatX=true
+alignY=BOTTOM

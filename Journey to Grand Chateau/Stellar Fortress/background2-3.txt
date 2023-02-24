@@ -1,0 +1,11 @@
+[pillars]
+img="pillars.png"
+depth=150
+repeatX=true
+alignY=BOTTOM
+
+[purplestars]
+img="purplestars.png"
+depth=8000
+repeatX=true
+alignY=BOTTOM

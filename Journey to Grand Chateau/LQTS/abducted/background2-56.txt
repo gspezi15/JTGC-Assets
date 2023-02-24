@@ -1,0 +1,11 @@
+[water]
+img="background2-56.png"
+depth=200
+repeatX=true
+alignY=BOTTOM
+
+[city]
+img="city.png"
+depth=100
+repeatX=true
+alignY=BOTTOM

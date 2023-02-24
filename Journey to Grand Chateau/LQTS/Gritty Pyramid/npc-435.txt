@@ -1,0 +1,8 @@
+gfxoffsety=4
+gfxwidth=68
+gfxheight=70
+width=64
+height=64
+playerblocktop=1
+name="Mad Grindel"
+gridalign=0

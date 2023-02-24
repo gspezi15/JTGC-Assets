@@ -1,0 +1,8 @@
+height=16
+gfxheight=72
+width=96
+gfxwidth=96
+frames=4
+framestyle=1
+framespeed=5
+npcblock=0

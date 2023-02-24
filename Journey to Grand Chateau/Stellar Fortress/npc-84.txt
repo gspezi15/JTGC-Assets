@@ -1,0 +1,9 @@
+gfxwidth=96
+gfxheight=56
+width=96
+height=56
+playerblock=1
+playerblocktop=0
+npcblock=1
+nohurt=1
+frames=2

@@ -1,0 +1,7 @@
+This file uses these sounds from Freesounds:
+
+- wind-noise.wav by jorge0000 (https://freesound.org/people/jorge0000/sounds/361053/)
+
+- Sandy Breeze (foley) by FableVision_Studios (https://freesound.org/people/FableVision_Studios/sounds/182868/)
+
+- DMP-009007-SILENCE DESERT.wav by martypinso (https://freesound.org/people/martypinso/sounds/23143/)

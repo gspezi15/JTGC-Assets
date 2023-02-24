@@ -1,0 +1,8 @@
+image = "npc-756.png"
+name = "Rock"
+width = 38
+height = 32
+nohurt = true
+jumphurt = true
+grabside = true
+frames=1

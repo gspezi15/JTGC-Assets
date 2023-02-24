@@ -1,0 +1,27 @@
+[General]
+color
+fill-color = "#6898F8"
+
+[bank]
+img="bank.png"
+depth=100
+repeatX=true
+alignY=BOTTOM
+
+[Midground]
+depth=250
+alignY=BOTTOM
+img=fronttrees.png
+repeatX=true
+
+[backtrees]
+img="backtrees2.png"
+depth=300
+repeatX=true
+alignY=BOTTOM
+
+[Backdrop]
+depth=400
+alignY=BOTTOM
+img=hills.png
+repeatX=true

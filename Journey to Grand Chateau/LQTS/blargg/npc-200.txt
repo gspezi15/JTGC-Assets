@@ -1,0 +1,5 @@
+gfxwidth=196
+gfxheight=190
+width=124
+height=146
+nofireball=1

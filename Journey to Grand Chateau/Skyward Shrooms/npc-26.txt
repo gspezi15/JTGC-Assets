@@ -1,0 +1,9 @@
+width=160
+gfxwidth=160
+grabside=0
+speed=0
+noyoshi=1
+npcblock=1
+npcblocktop=1
+playerblock=1
+nogravity=1

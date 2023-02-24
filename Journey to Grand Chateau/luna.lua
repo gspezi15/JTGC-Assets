@@ -1,0 +1,1 @@
+local nsmbwalls = require "nsmbwalls"

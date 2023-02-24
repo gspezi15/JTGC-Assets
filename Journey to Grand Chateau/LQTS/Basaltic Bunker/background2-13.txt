@@ -1,0 +1,13 @@
+[Castle]
+img="background2-2.png"
+depth=150
+repeatX=true
+repeatY=true
+alignY=BOTTOM
+
+[sky]
+img="sky.png"
+depth=1000
+repeatX=true
+repeatY=true
+speedX=-0.1

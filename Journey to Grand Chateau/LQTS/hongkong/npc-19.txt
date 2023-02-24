@@ -1,0 +1,14 @@
+frames=4
+framestyle=1
+framespeed=6.8
+gfxwidth=72
+width=72
+height=80
+gfxheight=80
+jumphurt=1
+npcblocktop=0
+playerblocktop=0
+grabtop=0
+nogravity=1
+nofireball=0
+speed=2

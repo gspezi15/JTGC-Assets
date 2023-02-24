@@ -1,0 +1,12 @@
+[china]
+img="china.png"
+depth=250
+repeatX=true
+alignY=BOTTOM
+
+[clouds]
+img="clouds.png"
+depth=INFINITE
+repeatX=true
+alignY=BOTTOM
+speedX=-0.5

@@ -1,0 +1,9 @@
+gfxoffsety=4
+gfxwidth=68
+gfxheight=70
+width=64
+height=60
+playerblocktop=1
+name="Maverick Grindel"
+gridoffsety=-2
+gridalign=0

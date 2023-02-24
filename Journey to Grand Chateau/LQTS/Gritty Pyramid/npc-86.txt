@@ -1,0 +1,6 @@
+gfxwidth=134
+gfxheight=112
+width=102
+height=84
+health=100
+jumphurt=0
